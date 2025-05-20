@@ -1,0 +1,9 @@
+Python variables: A Python variable is an address for where the data is stored in memory.
+This is can be a combination of letter, numbers and sign for example, my_first_variable, first_var, var_1, etc
+
+- Store data in a variable:
+
+1. first_variable = 7*8
+
+2. Creating a Python list and store it in a variable:
+py_list1 = [1,2,3,"Lateef", "student"]
