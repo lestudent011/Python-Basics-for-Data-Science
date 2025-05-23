@@ -1,4 +1,4 @@
-# Python-Basics-for-Data-Science
+# Python-Basics
 Week 1 Project: Variables, Data types, basic operations, data structure.
 This project is being carried out by a group of adult students and the MIT Licence is maintained.
 
